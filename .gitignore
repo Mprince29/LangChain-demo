@@ -3,6 +3,7 @@ __pycache__/
 *.pyo
 *.ipynb_checkpoints
 .env
+0.2.27
 .venv/
 .DS_Store
 *.log
